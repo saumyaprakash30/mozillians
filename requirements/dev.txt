@@ -119,9 +119,9 @@ mccabe==0.6.1 \
 pep8==1.7.1 \
     --hash=sha256:b22cfae5db09833bb9bd7c8463b53e1a9c9b39f12e304a8d0bba729c501827ee \
     --hash=sha256:fe249b52e20498e59e0b5c5256aa52ee99fc295b26ec9eaa85776ffdb9fe6374
-pyflakes==2.0.0 \
-    --hash=sha256:9a7662ec724d0120012f6e29d6248ae3727d821bba522a0e6b356eff19126a49 \
-    --hash=sha256:f661252913bc1dbe7fcfcbf0af0db3f42ab65aabd1a6ca68fe5d466bace94dae
+pyflakes==2.1.0 \
+    --hash=sha256:f277f9ca3e55de669fba45b7393a1449009cff5a37d1af10ebb76c52765269cd \
+    --hash=sha256:5e8c00e30c464c99e0b501dc160b13a14af7f27d4dffb529c556e30a159e231d
 backports.ssl_match_hostname==3.5.0.1 \
     --hash=sha256:502ad98707319f4a51fa2ca1c677bd659008d27ded9f6380c79e8932e38dcdf2
 django-debug-toolbar==1.11 \
